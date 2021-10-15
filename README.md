@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://pkportfolio.vercel.app)**
+- 👨‍💻 To know more about me goto my website **[My Portfolio](https://pkportfolio.vercel.app)**
 
  - 💬 Ask me about **cyber security** and any **tech** related stuff.
 
