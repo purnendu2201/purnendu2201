@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **purnendukumar6@gmail.com**
 
-- ⚡ Fun fact **I'm a computer science engineer as I'm a programmer and a pro_gramer😎.**
+- ⚡ Fun fact **I'm a computer science engineer as I'm a programmer and a pro_gamer😎.**
 
 ## 🚀 Languages and Tools:
 
