@@ -51,8 +51,8 @@ I enjoy solving complex technical issues, tuning searches for performance, and b
 
 <a href = "https://www.linkedin.com/in/purnendu22//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="mailto:purnendukumar6@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/new-post.png" width="40"/>
-  </a>
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/>
+</a>
 </p>
 
 
