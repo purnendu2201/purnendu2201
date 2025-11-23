@@ -6,14 +6,14 @@ I’m a Splunk Engineer specializing in **Splunk Cloud**, **Splunk Enterprise**,
 My focus is on helping organizations gain visibility into their systems through:
 - 🔍 Log analysis & data onboarding  
 - ⚙️ Search optimization & dashboard development  
-- 📡 Alerting, correlation, & automation  
+- 🛠️ Knowledge object management (lookups, field extractions, tags, event types)  
 - ☁️ Cloud monitoring & operational analytics  
 
 I enjoy solving complex technical issues, tuning searches for performance, and building dashboards that make insights obvious.
 
 ---
 
-## **Skills**
+## 💡 **Skills**
 
 ### **Splunk & Observability**
 - Splunk Cloud / Enterprise Administration  
@@ -31,7 +31,7 @@ I enjoy solving complex technical issues, tuning searches for performance, and b
 
 ### **Programming & Tools**
 - Linux, CLI, Git  
-- REST APIs  
+- REST APIs (basic understanding)  
 - Jira, ServiceNow, Salesforce
 
 ---
