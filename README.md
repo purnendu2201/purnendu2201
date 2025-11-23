@@ -46,7 +46,6 @@ I enjoy solving complex technical issues, tuning searches for performance, and b
 
 ## 📫 Connect with Me  
 
-## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/purnendu22//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
