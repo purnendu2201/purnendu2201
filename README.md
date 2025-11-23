@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Purnendu</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Purnendu Kumar</h1>
 <h3 align="center">Splunk Engineer | Observability | Cloud & Security</h3>
 
 ## 👨‍💻 About Me  
@@ -53,5 +53,10 @@ I enjoy solving complex technical issues, tuning searches for performance, and b
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/>
 </a>
 </p>
+
+## Know more about me
+
+You can also visit **[My Portfolio](https://purnendu-kumar-hly7q9a.gamma.site/)**
+
 
 
