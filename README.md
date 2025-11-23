@@ -50,8 +50,17 @@ I enjoy solving complex technical issues, tuning searches for performance, and b
 - **Data Onboarding Playbooks** – CIM mapping, parsing, props/transforms  
 
 ---
-
+ 
 ## 📫 Connect with Me  
-- **LinkedIn:** [Purnendu Kumar](https://www.linkedin.com/in/purnendu22/)  
-- **Email:** purnendukumar6@gmail.com  
+
+<a href="https://www.linkedin.com/in/purnendu22/">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40"/>
+</a>
+**LinkedIn**  
+<br>
+
+<a href="mailto:purnendukumar6@gmail.com">
+  <img src="https://img.icons8.com/fluent/48/000000/email.png" width="40"/>
+</a>
+**Email**
 
