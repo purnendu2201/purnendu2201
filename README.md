@@ -24,6 +24,7 @@ I enjoy solving complex technical issues, tuning searches for performance, and b
 - Monitoring Console, health checks, performance tuning  
 
 ### **Cloud & Security**
+- Splunk Core Certified
 - AWS (Cloud Practitioner Essentials – Certified)  
 - IBM Cybersecurity Fundamentals – Certified  
 - SIEM basics, log parsing, incident investigation  
