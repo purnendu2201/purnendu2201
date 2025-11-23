@@ -32,7 +32,7 @@ I enjoy solving complex technical issues, tuning searches for performance, and b
 ### **Programming & Tools**
 - Linux, CLI, Git  
 - REST APIs  
-- YAML, JSON  
+- Jira, ServiceNow, Salesforce
 
 ---
 
