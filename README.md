@@ -44,22 +44,16 @@ I enjoy solving complex technical issues, tuning searches for performance, and b
 
 ---
 
-## 🛠️ Featured Projects
-- **Splunk Search Optimization Samples** – Best-practice SPL  
-- **Threat Detection Dashboards** – Security-based dashboards  
-- **Data Onboarding Playbooks** – CIM mapping, parsing, props/transforms  
-
----
- 
 ## 📫 Connect with Me  
 
-<a href="https://www.linkedin.com/in/purnendu22/">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:purnendukumar6@gmail.com">
-  <img src="https://img.icons8.com/fluency/48/000000/new-post.png" width="40"/>
-</a>
-
+<p>
+  <a href="https://www.linkedin.com/in/purnendu22/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:purnendukumar6@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/new-post.png" width="40"/>
+  </a>
+</p>
 
 
