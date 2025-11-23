@@ -1,85 +1,67 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi, I'm Purnendu 👋</h1>
+<h3 align="center">Splunk Engineer | Observability | Cloud & Security</h3>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Purnendu</h1>
-<h3 align="center">I'm a passionate Front - end Developer from India.</h3>
+## 👨‍💻 About Me  
+I’m a Splunk Engineer specializing in **Splunk Cloud**, **Splunk Enterprise**, and **platform administration**, currently working at **iOPEX Technologies**.  
+My focus is on helping organizations gain visibility into their systems through:
+- 🔍 Log analysis & data onboarding  
+- ⚙️ Search optimization & dashboard development  
+- 📡 Alerting, correlation, & automation  
+- ☁️ Cloud monitoring & operational analytics  
 
+I enjoy solving complex technical issues, tuning searches for performance, and building dashboards that make insights obvious.
 
-## 🙋‍♂️ About Me
+---
 
-- 🔭 I’m currently working on **Self based projects.**
+## 🔧 Technical Skills
 
-- 🌱 I’m currently learning **ARTIFICIAL INTELLIGENCE and MACHINE LEARNING.**
+### **Splunk & Observability**
+- Splunk Cloud / Enterprise Administration  
+- Data ingestion (UF/HF/HTTP Event Collector)  
+- SPL queries, dashboard development, macros, lookups  
+- Alerting, saved searches, correlation searches  
+- App management, knowledge objects, CIM compliance  
+- Monitoring Console, health checks, performance tuning  
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+### **Cloud & Security**
+- AWS (Cloud Practitioner Essentials – Certified)  
+- IBM Cybersecurity Fundamentals – Certified  
+- SIEM basics, log parsing, incident investigation  
 
-- 👨‍💻 To know more about me goto **[My Portfolio](https://pkportfolio.vercel.app)**
+### **Programming & Tools**
+- Python (automation scripts)  
+- Linux, CLI, Git  
+- REST APIs  
+- YAML, JSON  
 
- - 💬 Ask me about **cyber security** and any **tech** related stuff.
+---
 
-- 📫 How to reach me **purnendukumar6@gmail.com**
+## 📈 What I’m Working On
+- Building automation scripts for Splunk troubleshooting  
+- Improving alert workflows & scheduled reports  
+- Experimenting with dashboards for Observability & Security Use Cases  
+- Expanding skills in **Cloud & ML for log analytics**
 
-- ⚡ Fun fact **I'm a computer science engineer as I'm a programmer and a pro_gamer😎.**
+---
 
-## 🚀 Languages and Tools:
+## 🛠️ Featured Projects (You can add later)
+- **Splunk Search Optimization Samples** – Best-practice SPL  
+- **Threat Detection Dashboards** – Security-based dashboards  
+- **Data Onboarding Playbooks** – CIM mapping, parsing, props/transforms  
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <!--<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <!--<a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> -->
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <!--<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
-</p>
+*(I can create these project templates for you if you want.)*
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+---
 
-<!--<p align="center">
-    <a href="https://github.com/purnendu2201/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="purnendu2201's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=purnendu2201&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>-->
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/purnendu2201/github-readme-stats"><img alt="Purnendu Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=purnendu2201&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/purnendu2201/github-readme-stats"><img alt="Purnendu Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnendu2201&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/purnendu2201/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=purnendu2201&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
+## 📊 GitHub Stats  
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/purnendu22//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/_purnendu_kumar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=purnendu2201&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purnendu2201&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
-<!--## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=purnendu2201">
-</a>
-<a href="https://github.com/purnendu2201?tab=followers"><img src="https://img.shields.io/github/followers/purnendu2201?label=Followers&style=social" alt="GitHub Badge"></a>
--->
+---
+
+## 📫 Connect with Me  
+- **LinkedIn:** [Purnendu Kumar](https://www.linkedin.com/in/purnendu22/)  
+- **Email:** purnendukumar6@gmail.com  
 
