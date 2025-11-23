@@ -46,15 +46,13 @@ I enjoy solving complex technical issues, tuning searches for performance, and b
 
 ## 📫 Connect with Me  
 
-<p>
-  <a href="https://www.linkedin.com/in/purnendu22/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
-  </a>
+## Connect with me:
+<p align="left">
 
-  <a href="mailto:purnendukumar6@gmail.com" target="_blank">
+<a href = "https://www.linkedin.com/in/purnendu22//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:purnendukumar6@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/new-post.png" width="40"/>
   </a>
 </p>
->
 
 
